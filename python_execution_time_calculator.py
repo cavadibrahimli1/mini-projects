@@ -12,3 +12,6 @@ print(a)
 end = time()
 execution_time = end - start
 print("Execution sime : ", execution_time)
+
+
+# This code calculates the time of code execution.
