@@ -5,3 +5,4 @@ I share my previous codes and mini projects in this repository.
 2. Acronyms maker
 3. Tik Tac Toe
 4. Python password shower
+5. Coffee Machine Code
