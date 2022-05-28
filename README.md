@@ -1,3 +1,6 @@
+
+![Logo](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 # Mini-projects
 I share my previous codes and mini projects in this repository.
 
