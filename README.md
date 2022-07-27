@@ -10,3 +10,4 @@ I share my previous codes and mini projects in this repository.
 4. Python password shower
 5. Coffee Machine Code
 6. Find the Factors of Integers
+7. Digital Clock
