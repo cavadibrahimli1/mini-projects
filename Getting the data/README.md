@@ -1,4 +1,4 @@
-# Day 72 - Data Visualisation with Matplotlib: Programming Languages
+Data Visualisation with Matplotlib: Programming Languages
 ## Concepts Practised
 - Data Cleaning: Working with Time Stamps
 - Data Manipulation: Pivoting DataFrames
